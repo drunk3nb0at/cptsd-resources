@@ -28,3 +28,12 @@ Resource Lib for Complex Post Traumatic Stress Disorder
 | ------------- | ------------- | ------------- |
 | 1 | [The Long-term Health Outcomes of Childhood Abuse](https://pmc.ncbi.nlm.nih.gov/articles/PMC1494926/) | Overview of the research on the long-term effects of child abuse on mental and physical health; Call for collaborative action to prevent and dealwith the sequelae of childhood abuse|
 | 2| [The efficacy of a facilitated support group intervention to reduce the psychological distress of individuals experiencing family estrangement](https://pubmed.ncbi.nlm.nih.gov/36108542/) | Through facilitated support group intervention, it is possible to reduce the psychological distress of those individuals experiencing family estrangement. 
+| 3| [Validation of the CPTSD-DSO scale: A measure for assessing the disturbance in self-organization aspects of complex PTSD](https://www.sciencedirect.com/science/article/abs/pii/S016503272500326X?via%3Dihub) | Preliminary validation of the 38-item CPTSD-DSO scale, with negative self-concept, affect dysregulation, and attachment disruption/interpersonal problem subscales.
+
+
+## Youtuber
+
+| #  | Name | Description |
+| ------------- | ------------- | ------------- |
+| 1 | [Patrick Teahan, MSW](https://www.youtube.com/@patrickteahanofficial)| Childhood Trauma Researcher and Educator|
+|2|[Heidi Priebe](https://www.youtube.com/@heidipriebe1)|Attachment Theory, personal development and healing from the pain of the past.|
